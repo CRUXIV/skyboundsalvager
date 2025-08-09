@@ -1,5 +1,7 @@
 # Skybound Salvager
 
+**I UNDERSTAND THAT THIS GAME IS BAD IT WAS A LEARNING EXPERINCE**
+
 **Skybound Salvager** is a 2D top-down exploration and collection game built with **Python** and **Pygame**.
 
 You pilot an airship across a floating island world, salvaging resources, upgrading your ship, and exploring new regions.
